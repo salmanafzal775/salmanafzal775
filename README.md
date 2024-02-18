@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there👋, My name is Salman Afzal.
 
-<!--
-**salmanafzal775/salmanafzal775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+I am currently working as a Mobile Application Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Rank | Languages     |
+|-----:|---------------|
+|     1| JavaScript    |
+|     2| React Native  |
+|     3| Android Native|
+|     4| Java          |
+
+## Get in touch with me:
+* Email: salmanafzal775@gmail.com
+* LinkedIn: www.linkedin.com/in/salman-afzal-946b89151
+
+## Skills
+* JavaScript
+* Java
+* React Native
+* Android Native
+* TypeScript
+* Kotlin
+* Redux
+* Restful API's
+* Firebase
+* In App Purchases
+* Stripe
+* Google API's
+* Social Logins
+* GraphQL / Axios / Fetch / Volley
+* Localization
+* Google Ads
+
+## My Blogs from dev.to
+
++ - [🚀 React Native Introduction for starters](https://dev.to/salmanafzal775/react-native-introduction-for-starters-pe8)
