@@ -12,7 +12,6 @@ I am currently working as a Mobile Application Developer!
 |     4| Java          |
 
 ## Get in touch with me:
-* Email: salmanafzal775@gmail.com
 * LinkedIn: www.linkedin.com/in/salman-afzal-946b89151
 
 ## Skills
@@ -39,7 +38,19 @@ I am currently working as a Mobile Application Developer!
 
 ## My Projects
 
-- Saturno Movement - Mobile App 
+### SAT JAPAN
+  
+<a href="https://apps.apple.com/pk/app/sat-japan/id6670398121" target="_blank">
+  <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
+</a>
+
+<!-- Play Store Badge -->
+<a href="https://play.google.com/store/apps/details?id=com.satjapan.mobile" target="_blank">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play Store" height="40">
+</a>
+
+### Saturno Movement - Mobile App
+
 <a href="https://apps.apple.com/us/app/saturno-movement/id1633860752" target="_blank">
   <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
 </a>
@@ -49,19 +60,27 @@ I am currently working as a Mobile Application Developer!
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play Store" height="40">
 </a>
 
-- PakRents - Mobile App 
+### Gym Passport
+
+<a href="https://apps.apple.com/pk/app/gym-passport/id1534995333" target="_blank">
+  <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
+</a>
+
 <!-- Play Store Badge -->
-<a href="https://play.google.com/store/apps/details?id=com.pakrents.propertyRental" target="_blank">
+<a href="https://play.google.com/store/search?q=Gym%20passport&c=apps" target="_blank">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play Store" height="40">
 </a>
 
-- Halal Co - Mobile App 
+
+### Halal Co - Mobile App
+  
 <a href="https://apps.apple.com/ke/app/halal-co/id6443623625" target="_blank">
   <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
 </a>
 
 
-- Citi Gold Card - Mobile App 
+### Citi Gold Card - Mobile App
+  
 <a href="https://apps.apple.com/pk/app/citi-gold-card/id1569380159" target="_blank">
   <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
 </a>
@@ -71,7 +90,8 @@ I am currently working as a Mobile Application Developer!
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play Store" height="40">
 </a>
 
-- Yalla Foods - Mobile App 
+### Yalla Foods - Mobile App
+  
 <a href="https://apps.apple.com/pk/app/yalla-foods/id1578264471" target="_blank">
   <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
 </a>
