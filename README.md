@@ -7,9 +7,10 @@ I am currently working as a Mobile Application Developer!
 | Rank | Languages     |
 |-----:|---------------|
 |     1| JavaScript    |
-|     2| React Native  |
-|     3| Android Native|
-|     4| Java          |
+|     2| TypeScript    |
+|     3| React Native  |
+|     4| Android Native|
+|     5| Java          |
 
 ## Get in touch with me:
 * LinkedIn: www.linkedin.com/in/salman-afzal-946b89151
@@ -31,6 +32,8 @@ I am currently working as a Mobile Application Developer!
 * GraphQL / Axios / Fetch / Volley
 * Localization
 * Google Ads
+* Social Logins
+* Animations
 
 ## My Blogs from dev.to
 
@@ -38,10 +41,18 @@ I am currently working as a Mobile Application Developer!
 
 ## My Projects
 
+### YolKar
+  
+<!-- Play Store Badge -->
+<a href="https://play.google.com/store/apps/details?id=com.satjapan.mobile" target="_blank">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Google Play Store" height="40">
+</a>
+
+
 ### SAT JAPAN
   
 <a href="https://apps.apple.com/pk/app/sat-japan/id6670398121" target="_blank">
-  <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
+  <img src="https://i.pinimg.com/736x/5b/8a/89/5b8a89a35acc01a18daf552419e58eaa.jpg" alt="App Store" height="40">
 </a>
 
 <!-- Play Store Badge -->
@@ -52,7 +63,7 @@ I am currently working as a Mobile Application Developer!
 ### Saturno Movement - Mobile App
 
 <a href="https://apps.apple.com/us/app/saturno-movement/id1633860752" target="_blank">
-  <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
+  <img src="https://i.pinimg.com/736x/5b/8a/89/5b8a89a35acc01a18daf552419e58eaa.jpg" alt="App Store" height="40">
 </a>
 
 <!-- Play Store Badge -->
@@ -63,7 +74,7 @@ I am currently working as a Mobile Application Developer!
 ### Gym Passport
 
 <a href="https://apps.apple.com/pk/app/gym-passport/id1534995333" target="_blank">
-  <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
+  <img src="https://i.pinimg.com/736x/5b/8a/89/5b8a89a35acc01a18daf552419e58eaa.jpg" alt="App Store" height="40">
 </a>
 
 <!-- Play Store Badge -->
@@ -75,14 +86,14 @@ I am currently working as a Mobile Application Developer!
 ### Halal Co - Mobile App
   
 <a href="https://apps.apple.com/ke/app/halal-co/id6443623625" target="_blank">
-  <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
+  <img src="https://i.pinimg.com/736x/5b/8a/89/5b8a89a35acc01a18daf552419e58eaa.jpg" alt="App Store" height="40">
 </a>
 
 
 ### Citi Gold Card - Mobile App
   
 <a href="https://apps.apple.com/pk/app/citi-gold-card/id1569380159" target="_blank">
-  <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
+  <img src="https://i.pinimg.com/736x/5b/8a/89/5b8a89a35acc01a18daf552419e58eaa.jpg" alt="App Store" height="40">
 </a>
 
 <!-- Play Store Badge -->
@@ -93,7 +104,7 @@ I am currently working as a Mobile Application Developer!
 ### Yalla Foods - Mobile App
   
 <a href="https://apps.apple.com/pk/app/yalla-foods/id1578264471" target="_blank">
-  <img src="https://itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" alt="App Store" height="40">
+  <img src="https://i.pinimg.com/736x/5b/8a/89/5b8a89a35acc01a18daf552419e58eaa.jpg" alt="App Store" height="40">
 </a>
 
 <!-- Play Store Badge -->
