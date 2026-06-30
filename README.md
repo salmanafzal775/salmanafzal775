@@ -1,4 +1,4 @@
-### Hi there👋, My name is Salman Afzal.
+### Hi there👋, My name is Suleman Afzal.
 
 ## About me:
 
