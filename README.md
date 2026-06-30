@@ -13,7 +13,7 @@ I am currently working as a Mobile Application Developer!
 |     5| Java          |
 
 ## Get in touch with me:
-* LinkedIn: www.linkedin.com/in/salman-afzal-946b89151
+* LinkedIn: https://www.linkedin.com/in/muhammad-suleman-afzal-946b89151/
 
 ## Skills
 * JavaScript
