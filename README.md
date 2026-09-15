@@ -62,6 +62,9 @@ I'm a Mobile Application Developer specializing in **React Native** and **Androi
     <td width="50%" valign="top">
       <h3>🚗 YolKar</h3>
       <p>Carpooling platform mobile app.</p>
+      <a href="https://apps.apple.com/pk/app/yolkar/id6796737210">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" alt="App Store"/>
+      </a>
       <a href="https://play.google.com/store/apps/details?id=com.satjapan.mobile">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play"/>
       </a>
